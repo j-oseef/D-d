@@ -11,7 +11,7 @@ from telebot import types
 from yt_dlp import YoutubeDL
 
 # ─── إعداد البوت ───────────────────────────────────────────────────────────────
-TOKEN = "8007753220:AAEiMB7GLxLOIpSNRhDiGIPFZLkAtPiDizQ"
+TOKEN = "7605106279:AAF-axOVnW-RYrCr8UzhAwj-5yjEpNxXlWI"
 OWNER_ID = 2046117078
 bot = telebot.TeleBot(TOKEN)
 
